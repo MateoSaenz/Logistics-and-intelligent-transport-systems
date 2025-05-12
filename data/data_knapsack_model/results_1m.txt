@@ -1,0 +1,30 @@
+Filename. 1
+UB: 25464652
+LB: 25465285.45063692
+Gap : 0.000024876
+Temps d'exécution : 99.063
+
+Filename. 2
+UB: 25487511
+LB: 25488241.05982893
+Gap : 0.000028644
+Temps d'exécution : 87.968
+
+Filename. 3
+UB: 25473187
+LB: 25473274.066000279
+Gap : 3.417946890e-06
+Temps d'exécution : 81.719
+
+Filename. 4
+UB: 25431909
+LB: 25433088.066560723
+Gap : 0.000046362
+Temps d'exécution : 97.281
+
+Filename. 5
+UB: 25517516
+LB: 25519415.694174733
+Gap : 0.000074447
+Temps d'exécution : 88.734
+
